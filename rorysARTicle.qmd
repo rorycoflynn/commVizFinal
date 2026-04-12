@@ -18,7 +18,27 @@ format:
   <p class="normalText">McDonald’s faced a rare public outcry after running AI-generated holiday art in a marketing campaign, forcing a swift retreat. A reality dating show called Fruit AI Love Island recently went viral, before SORA’s shutdown spelled its (timely) end.  Meanwhile, Merriam-Webster crowned “slop” as its 2026 Word of the Year, defined in part as “low-effort, low-quality AI-generated content flooding public feeds.” It’s naive to think this deluge of AI-generated content doesn’t impact us, because it's everywhere from news to social media and marketing, spilling into every area of our lives. </p>
 
   <p class="normalText">Central to this conversation is the human cost: the artists, illustrators, and writers whose work is being displaced by AI-generated content. So where do people actually draw the line on AI-generated art?</p>
+
 </div>
+<div class="section-cards-container">
+<div class="section-cards">
+<a href="#section-where" class="card">
+<span class="card-label">Medium, Context and Extent</span>
+</a>
+<a href="#section-who" class="card">
+<span class="card-label">Proximity and Acceptance</span>
+</a>
+<a href="#section-line" class="card">
+<span class="card-label">How much AI is too much?</span>
+</a>
+<a href="#section-perceptions" class="card">
+<span class="card-label">Comparing Opinions</span>
+</a>
+<a href="#section-nobody" class="card">
+<span class="card-label">Responses and Actions Taken</span>
+</a>
+</div>
+
 <!-- end normal html section  --> 
 <!-- everything in {} needs cr- prefix -->
  
@@ -79,6 +99,8 @@ In other words, there is a pervasive willingness to engage with AI-generated con
 :::
 
 
+
+
 <!-- WHAT DO PEOPLE THINK OF AI -->
 
 <!-- disclosure condtition number one as in the best one --> 
@@ -118,11 +140,13 @@ and significant human editing of the AI output. @cr-Q6 3
 :::
 
 
--->
-
+--.
 
 <!-- WHAT DOES CONDITIONALLY ACCEPTABLE MEAN?? -->
-
+<div class="section-header-block" id="section-where">
+  <h2 class="section-header" >What kinds of AI peices?</h2>
+  <p class="section-subhead">Acceptance shifts dramatically depending on the medium of work and the stage of creation where AI was utilized. What people tolerate in a rough draft looks very different from what they'll accept in a finished piece.</p>
+</div>
 :::{.cr-section}
 
 **Across Mediums** @cr-mediums
@@ -173,8 +197,14 @@ Notably, all three mediums with non-zero approval for core generation have estab
 ![](MediumsMatrix.png)
 :::
 
+
 :::
 
+
+<div class="section-header-block" id="section-who">
+  <h2 class="section-header">Who's Making the Rules?</h2>
+  <p class="section-subhead">The answer changes depending on who you ask. Creators, non-creators, and AI users each draw the line in a different place — sometimes for reasons you wouldn't expect.</p>
+</div>
 
 <!---ACCEPTANCE OF MEDIUMS BY PRACTIONER IN THAT MEDIUM -->
 <!-- proximity to the creative process makes you more less sensitive to ai in that medium --> 
@@ -196,6 +226,12 @@ That is to say: of Illustrators, writers, Photographers and musicians who don't 
 
 
 :::
+
+<div class="section-header-block" id="section-line">
+  <h2 class="section-header" >Where's the Line?</h2>
+  <p class="section-subhead">Even among people who use AI, there's a point where a work stops feeling human. The threshold is lower than you might think.</p>
+</div>
+
 
 <!--close section -->
 <!-- someting here to transition and talk about how now we are exploring how these two groups differ on perception and values of art and AI artifacts --> 
@@ -291,7 +327,10 @@ Non-adopters place that threshold very low: a human-made work is one created alm
 
 
 
-
+<div class="section-header-block" id="section-perceptions">
+  <h2 class="section-header" 	>Perceptions of AI Art</h2>
+  <p class="section-subhead">How AI involvement changes judgments of quality — and of creators themselves.</p>
+</div>
 
 
 
@@ -387,11 +426,13 @@ One's own use of AI does not produce solidarity among AI creators. Adopters do n
 
 <!-- close -->
 
-
-
-
+<div class="section-header-block" id="section-nobody">
+  <h2 class="section-header">Nobody's Doing Anything</h2>
+  <p class="section-subhead">For all the strong opinions, people are behaving largely the same as each other.</p>
+</div>
 
 <!-- ACTIONS --> 
+
 :::{.cr-section}
 
 **AI Adopters and non-users experience the impacts of AI entirely differently.** @cr-q13
