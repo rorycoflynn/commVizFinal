@@ -23,10 +23,10 @@ format:
 <div class="section-cards-container">
 <div class="section-cards">
 <a href="#section-where" class="card">
-<span class="card-label">Medium, Context and Extent</span>
+<span class="card-label">Context of Application</span>
 </a>
 <a href="#section-who" class="card">
-<span class="card-label">Proximity and Acceptance</span>
+<span class="card-label">Personal Use & Acceptance</span>
 </a>
 <a href="#section-line" class="card">
 <span class="card-label">How much AI is too much?</span>
@@ -144,9 +144,11 @@ and significant human editing of the AI output. @cr-Q6 3
 
 <!-- WHAT DOES CONDITIONALLY ACCEPTABLE MEAN?? -->
 <div class="section-header-block" id="section-where">
-  <h2 class="section-header" >What kinds of AI peices?</h2>
-  <p class="section-subhead">Acceptance shifts dramatically depending on the medium of work and the stage of creation where AI was utilized. What people tolerate in a rough draft looks very different from what they'll accept in a finished piece.</p>
+  <h2 class="section-header" >What is 'conditional' acceptance?</h2>
+  <p class="section-subhead">Acceptance rates shift depending on the context, such as the medium of work and the stage of creation where AI was utilized. Those accepting of AI have different tolerances for what is acceptable in a rough draft as opposed to what they'll accept in a finished piece.</p>
 </div>
+
+
 :::{.cr-section}
 
 **Across Mediums** @cr-mediums
@@ -194,8 +196,9 @@ Notably, all three mediums with non-zero approval for core generation have estab
 
 
 :::{#cr-Matrix}
-![](MediumsMatrix.png)
+![](FreshMatrix.png)
 :::
+
 
 
 :::
@@ -203,7 +206,7 @@ Notably, all three mediums with non-zero approval for core generation have estab
 
 <div class="section-header-block" id="section-who">
   <h2 class="section-header">Who's Making the Rules?</h2>
-  <p class="section-subhead">The answer changes depending on who you ask. Creators, non-creators, and AI users each draw the line in a different place — sometimes for reasons you wouldn't expect.</p>
+  <p class="section-subhead"> Opinions on AI Art changes depending on who you ask. Creators, non-creators, and AI users each draw the line in a different place, aligning with popular decriptions of the AI discourse.</p>
 </div>
 
 <!---ACCEPTANCE OF MEDIUMS BY PRACTIONER IN THAT MEDIUM -->
@@ -228,7 +231,7 @@ That is to say: of Illustrators, writers, Photographers and musicians who don't 
 :::
 
 <div class="section-header-block" id="section-line">
-  <h2 class="section-header" >Where's the Line?</h2>
+  <h2 class="section-header" >Says Who?</h2>
   <p class="section-subhead">Even among people who use AI, there's a point where a work stops feeling human. The threshold is lower than you might think.</p>
 </div>
 
@@ -328,8 +331,8 @@ Non-adopters place that threshold very low: a human-made work is one created alm
 
 
 <div class="section-header-block" id="section-perceptions">
-  <h2 class="section-header" 	>Perceptions of AI Art</h2>
-  <p class="section-subhead">How AI involvement changes judgments of quality — and of creators themselves.</p>
+  <h2 class="section-header">Differences in Opinion... or lack thereof </h2>
+  <p class="section-subhead">Even though AI users are much more accepting of AI, it seems that the opinions of either group are not too different and of creators themselves.</p>
 </div>
 
 
